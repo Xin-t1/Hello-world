@@ -1,3 +1,17 @@
+---
+
+permalink: /[1]/
+title: [TEST]
+description: [test]
+next: ../[02]/
+last: ../[00]/
+author:
+    - [Xin]
+    - [Xin2]
+layout: default
+
+---
+
 ## this is a title
 
 **test by Xin_t**
